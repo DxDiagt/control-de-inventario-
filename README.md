@@ -1,3 +1,5 @@
 "# control-de-inventario-" 
 "# control-de-inventario-" 
 "# inventario-tiendas" 
+"# inventarios-para-tiendas" 
+"# inventarios-para-tiendas" 
